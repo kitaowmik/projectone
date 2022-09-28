@@ -42,7 +42,7 @@ ul {
 
 a{
   color:#250000;
-  transition: background-color 0.5s;
+  transition: color 0.4s;
   text-decoration: none;
   display: block;
   padding: .5em;
