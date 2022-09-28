@@ -52,8 +52,8 @@ a{
 }
 
 a:hover {
+    color: #e6c1c2;
   font-weight: bold;
-  color: #e6c1c2;
 }
 
 ul.primary-nav {
