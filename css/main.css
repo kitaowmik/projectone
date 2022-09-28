@@ -141,7 +141,7 @@ h1 {
   color: #e6c1c2;
   margin-top:.1em;
   background: #250000;
-  background: url(assets/light.png);
+  background: url(./assets/light.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
