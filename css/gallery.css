@@ -14,7 +14,7 @@ body {
 }
 
 
-.navbar . container {
+.navbar .container {
   display: grid;
   grid-template-columns: 180px auto;
   justify-content:unset;
@@ -63,7 +63,7 @@ ul.primary-navi {
   flex-direction: column;
   justify-content: center;
   text-align:center;
-  margin: 40px 20px 0 20px;
+  margin: 40px 20px 20px 20px;
 }
 
 .container .heading{
@@ -98,9 +98,9 @@ ul.primary-navi {
 }
 
 .column{
-  flex: 30%;
-  max-width: 30%;
-  padding: 10px 5px;
+  flex: 20%;
+  max-width: 40%;
+  padding: 20px 20px;
 }
 
 .column img {
@@ -123,4 +123,4 @@ img:hover {
     max-width: 50%;
   }
 }
-}
+
